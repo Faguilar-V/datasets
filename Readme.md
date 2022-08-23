@@ -1,7 +1,6 @@
 ## Datasets utilizados en este módulo:
 
-- [Link al Drive donde están guardados los datasets](https://drive.google.com/drive/folders/1oXUNacyjuHpGBkmESnKIDA5s03UnS8Vg?usp=sharing)
-
+- [Link al Drive donde están guardados los datasets]
 ### 1. Zomato Restaurants Data:
 
 - [Fuente](https://www.kaggle.com/shrutimehta/zomato-restaurants-data)
